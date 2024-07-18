@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Serhii, a full-time devops team lead 👨‍💻 working in Zoomin Software Inc  🚀</div>  
+### <div align="center">I'm Serhii, 👨‍💻 working in Software Inc  🚀</div>  
   
 
 - 🌱 I’m currently  
