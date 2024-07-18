@@ -6,13 +6,13 @@
 ### <div align="center">I'm Serhii, 👨‍💻 working in Software Inc  🚀</div>  
   
 
-- 🌱 I’m currently  
+- 🌱 I’m currently just discover this
   
 
-- ❓ Ask me about anything related to team management  
+- ❓ Ask me about anything related to team management 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: there is no fun fact :)
   
 
 <br/>  
